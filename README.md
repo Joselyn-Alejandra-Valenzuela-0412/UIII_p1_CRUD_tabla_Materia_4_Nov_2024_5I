@@ -3,6 +3,7 @@ CRUD Create-crear Read-Leer Update-actualizar Delete-borrar Table Materia
 
 resultados
 
-![image](https://github.com/user-attachments/assets/7244b37b-20bf-4c2f-88f9-8c690adaf393)
+![image](https://github.com/user-attachments/assets/9bcf1ac9-0d2b-4cac-9d23-27d0d470372d)
+
 
 
