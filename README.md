@@ -7,3 +7,17 @@ resultados
 
 
 
+-BOTONES EDITAR Y BORRAR
+
+![image](https://github.com/user-attachments/assets/22c1196c-faaf-4d55-9ccd-c8c067112a5d)
+
+
+
+-EDITAR MATERIA
+
+![image](https://github.com/user-attachments/assets/f90ccdf3-311f-4a5a-b959-553655399614)
+
+
+
+
+
